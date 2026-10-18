@@ -1,0 +1,8 @@
+{
+  "name": "Remix نور القرآن والأدعية",
+  "description": "تطبيق المصحف الشريف والأدعية الشاملة مع إمكانية التنزيل للقراءة بدون إنترنت، والبحث السريع، والإشارات المرجعية، والتحكم بحجم الخط.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

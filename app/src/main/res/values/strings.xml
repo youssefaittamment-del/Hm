@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">نور القرآن والأدعية</string>
+    <string name="search_hint">ابحث عن سورة أو دعاء أو موضوع…</string>
+    <string name="quran_tab">المصحف الشريف</string>
+    <string name="duas_tab">الأدعية والأذكار</string>
+    <string name="bookmarks_tab">المحفوظات</string>
+    <string name="downloads_tab">التنزيل وبدون نت</string>
+    <string name="prayer_tab">الصلاة والتذكير</string>
+    <string name="font_size_title">حجم الخط</string>
+    <string name="resume_reading">متابعة القراءة</string>
+    <string name="offline_ready">متاح بدون إنترنت</string>
+</resources>
